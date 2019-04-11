@@ -1,0 +1,6 @@
+c:\users\kalen\documents\visual studio 2015\Projects\Masters_Selector\Masters_Selector\bin\Debug\Masters_Selector.exe.config
+c:\users\kalen\documents\visual studio 2015\Projects\Masters_Selector\Masters_Selector\bin\Debug\Masters_Selector.exe
+c:\users\kalen\documents\visual studio 2015\Projects\Masters_Selector\Masters_Selector\bin\Debug\Masters_Selector.pdb
+c:\users\kalen\documents\visual studio 2015\Projects\Masters_Selector\Masters_Selector\obj\Debug\Masters_Selector.csprojResolveAssemblyReference.cache
+c:\users\kalen\documents\visual studio 2015\Projects\Masters_Selector\Masters_Selector\obj\Debug\Masters_Selector.exe
+c:\users\kalen\documents\visual studio 2015\Projects\Masters_Selector\Masters_Selector\obj\Debug\Masters_Selector.pdb
